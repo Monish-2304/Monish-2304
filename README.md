@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Monish S</h1>
-<h3 align="center">Front End Web Developer , AI enthusiast , Android Dev newbie</h3>
+<h3 align="center">Full Stack Developer , AI enthusiast </h3>
+<p>I am a Engineer, whose main aim is to tackle problems efficiently and contribute to projects that impact the world regardless of programming languages/ frameworks/ domains/ technologies. Full Stack Developer somehow fits my idea of being a complete engineer. I write frontend, backend, db schemas, deploy applications , dockerize them , test , everything... Love to take ownership of tasks. I believe in continuous learning, A day you spent learning nothing is a day wasted!</p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monish-2304&label=Profile%20views&color=10da32&style=flat-square" alt="monish-2304" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently exploring **Generative AI, LangChain**
 
-- 💬 Ask me about **C++,JavaScript**
+- 💬 Ask me about **JavaScript,Typescript,MERN stack, Next JS**
 
 - 📫 How to reach me **monish2304@gmail.com**
+  
+- 🕵️ Portfolio : <a href="https://monish-s.netlify.app/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmEivGnbCwAT6QkNLq7IZoWiG1hIAJiQwXkQ&s" alt="monish2304" height="40" width="40"/></a>
 
 - ⚡ Fun fact **The first computer bug was an actual bug!**
 
@@ -15,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/monish2304" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="monish2304" height="40" width="40" /></a>
 <a href="https://instagram.com/monish._.23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="monish._.23" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/monish2304" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1559406522329100288/bZAmg2J7_400x400.jpg" alt="monish2304" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/monish2304" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7nnuHVZv_MWSqfCeTaBjYaV5o3-QNqFSTQ&s" alt="monish2304" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
